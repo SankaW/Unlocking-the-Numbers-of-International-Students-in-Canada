@@ -1,0 +1,4 @@
+/aws_data_pipeline/.terraform/
+/aws_data_pipeline/.terraform.lock.hcl
+/aws_data_pipeline/terraform.tfstate
+/aws_data_pipeline/terraform.tfstate.backup
